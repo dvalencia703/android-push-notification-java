@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "564722726122",
+    "firebase_url": "https://sample-push-notification-703.firebaseio.com",
+    "project_id": "sample-push-notification-703",
+    "storage_bucket": "sample-push-notification-703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564722726122:android:c93486094677dad9",
+        "android_client_info": {
+          "package_name": "com.thematrix.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564722726122-9rkcmdf8cp24vd9p9qvgv37pogads6jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxEa-DmGNbWtpduwglyoaTLPf64Gzr3Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
